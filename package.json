@@ -1,0 +1,17 @@
+{
+    "name": "SkyGoDevPairingTest",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "latest",
+        "bower": "latest",
+        "jade": "0.35.0"
+    },
+    "devDependencies": {
+        "mocha": "1.13.0",
+        "phantomjs": "*",
+        "mocha-phantomjs": "3.1.2",
+        "chai": "1.7.2",
+        "sinon": "1.7.3",
+        "mock": "0.1.1"
+    }
+}

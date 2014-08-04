@@ -1,0 +1,14 @@
+{
+    "name": "SkyGoDevPairingTest",
+    "version": "1.0.0",
+    "dependencies": {
+        "angular-route": "1.2.16",
+        "angular": "1.2.16"
+    },
+    "devDependencies": {
+        "sinon": "1.7.3",
+        "angular-mocks": "https://raw.github.com/angular/bower-angular-mocks/unstable/angular-mocks.js",
+        "mocha": "1.12.0",
+        "chai": "1.7.2"
+    }
+}
