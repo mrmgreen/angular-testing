@@ -44,7 +44,6 @@ describe('Controller test', function() {
       $scope: scope,
       TvListingSvc: mockTvListingSvc
     });
-    scope.$digest();
     expect(scope.names).toBe('good');
   });
 
@@ -54,7 +53,6 @@ describe('Controller test', function() {
       $scope: scope,
       TvListingSvc: mockTvListingSvc
     });
-    scope.$digest();
     expect(scope.names).toBe('no good');
   });
 });
